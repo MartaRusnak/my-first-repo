@@ -1,0 +1,4 @@
+# Biomaterials in Medicine
+ 
+Biomaterials are substances engineered to interact with biological systems.
+Common examples include titanium for implants and hydrogels for tissue engineering.
